@@ -52,7 +52,6 @@
 
 ## 📷 Screenshots
 
-_Replace below URLs with your own:_
 
 ![PVP Team Build](https://www.yieldguild.io/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fygg_strapi_prod%2Fgameplay_game_axie_infinity_01_8332e49f74%2Fgameplay_game_axie_infinity_01_8332e49f74.jpg&w=3840&q=75)  
 *A well-rounded Axie lineup (Tank + DPS + Speed)*
